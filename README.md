@@ -1,6 +1,6 @@
-- 👋 Mosi mosh, I’m @Nishi-ops
-- 👀 I’m interested in playing chess (of course! CODING)
-- 🌱 I’m currently learning Volleyball and to master the Basics of DSA.
+- 👋 Mosi mosh, I’m @Nishi-ops, a software developer.
+- 👀 I’m interested in playing chess (and of course! CODING)
+- 🌱 I have developed an e-commerce application using java and Android studio 
 - 💞️ I’m looking to collaborate on creating something^°
 - 📫 How to reach me https://www.linkedin.com/in/nishikant-singh-92b673208
 
